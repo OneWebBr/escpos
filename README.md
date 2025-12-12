@@ -169,7 +169,7 @@ If you use any other printer with this code, please [let us know](https://github
 This library is designed for use with the `composer` PHP dependency manager. Simply add the `mike42/escpos-php` package to get started:
 
 ```bash
-composer require mike42/escpos-php
+composer require onewebbr/escpos-php
 ```
 
 If you haven't used `composer` before, you can read about it at [getcomposer.org](https://getcomposer.org/).
