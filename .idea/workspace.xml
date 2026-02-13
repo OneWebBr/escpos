@@ -1,21 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6ac9865-39bd-4d2b-b42b-00d0a231991b" name="Changes" comment="" />
+    <list default="true" id="c6ac9865-39bd-4d2b-b42b-00d0a231991b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Mike42/Escpos/EscposImage.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Mike42/Escpos/EscposImage.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Mike42/Escpos/GdEscposImage.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Mike42/Escpos/GdEscposImage.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Mike42/Escpos/ImagickEscposImage.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Mike42/Escpos/ImagickEscposImage.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Mike42/Escpos/NativeEscposImage.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Mike42/Escpos/NativeEscposImage.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings">
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="148" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/bin/php" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="36kTn9JbEgESAdNIdeLKprFf6ba" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -24,12 +43,20 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultAutoModeForALLUsers.v1": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "3.x",
+    "git-widget-placeholder": "development",
     "junie.onboarding.icon.badge.shown": "true",
     "last_opened_file_path": "/home/cicero/sites/escpos",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "preferences.lookFeel",
     "to.speed.mode.migration.done": "true",
@@ -39,8 +66,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-PS-251.27812.52" />
-        <option value="bundled-php-predefined-a98d8de5180a-e5747d4f5a45-com.jetbrains.php.sharedIndexes-PS-251.27812.52" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PS-253.30387.85" />
+        <option value="bundled-php-predefined-a98d8de5180a-0e0d91225499-com.jetbrains.php.sharedIndexes-PS-253.30387.85" />
       </set>
     </attachedChunks>
   </component>
@@ -52,7 +79,12 @@
       <option name="presentableId" value="Default" />
       <updated>1765549733533</updated>
       <workItem from="1765549734638" duration="3000" />
+      <workItem from="1765549762635" duration="2380000" />
+      <workItem from="1770993924791" duration="382000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
